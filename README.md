@@ -1,4 +1,4 @@
-# Datascience-ML
+# COVID-19#
 ################
 
 In the current situation of COVID-19 becoming a pandemic there’s an utmost need for us to understand the various aspects of it. 
